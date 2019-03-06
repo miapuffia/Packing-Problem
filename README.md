@@ -14,3 +14,6 @@ Container and package data can be imported and exported to a text file to save s
 
 ## Uses
 I made this program to determine how many foam boards I needed to mount about 30 posters of mostly unique sizes. I figured there's probably some mathematics I could use, but I'm a programmer, not a mathematician, so I wrote a program instead. I imagine this program could be used to map out floor plans or any number of other semi-annoying tasks.
+
+## Note
+This program uses one or more functions from my RobertHelperFunctions package. All of those class files are also on GitHub.
